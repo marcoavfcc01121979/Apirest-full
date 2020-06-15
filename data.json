@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Marco",
+      "age": "40",
+      "id": "0a153d44-13a6-4c6f-9d01-a27a96d32172"
+    },
+    {
+      "name": "Maria Giulia",
+      "age": "8",
+      "id": "dc5d109b-ab89-4824-8e66-705362c6e367"
+    },
+    {
+      "name": "Luis",
+      "age": "5",
+      "id": "6407b6f1-2911-4eea-8ed3-7c5500f8e8e8"
+    },
+    {
+      "name": "Raimunda Araujo",
+      "age": "66",
+      "id": "77ef51e5-5943-404c-8c95-94bde3ba83bc"
+    }
+  ],
+  "locations": [
+    {
+      "latitude": "31",
+      "longitude": "-93",
+      "userId": "hdjshflsdhgoudsfygdfjhg",
+      "id": "88b54032-b3a8-4e83-b752-f1700f1e8dc5",
+      "lat": "1158484219",
+      "lon": "971348460484+848"
+    },
+    {
+      "latitude": "313654",
+      "longitude": "-9300987",
+      "userId": "lhggedhopugsdohj4415",
+      "id": "08187c19-504f-4177-9623-2cf3b8f0e7fa"
+    },
+    {
+      "latitude": "00564897",
+      "longitude": "-96385298",
+      "userId": "0+487487njhsdfjhluh",
+      "id": "6fce61b2-d754-4077-a5b6-c8e43b289c49"
+    }
+  ]
+}
